@@ -1,10 +1,19 @@
-# common
+# dependencies
 node_modules/
+
+# env
 .env
-.env.* 
+.env.*
+
+# build
+dist/
+build/
 
 # logs
 *.log
 
 # OS
 .DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
